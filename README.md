@@ -2,4 +2,7 @@
 -lets understand with some tools
 
 # metasploit
-[link for video](https://www.youtube.com/watch?v=ZHrmg1PKLrk&t=547s)
+[Link for the video](https://www.youtube.com/watch?v=ZHrmg1PKLrk&t=547s)
+
+# brute force
+[Link for the video](https://www.youtube.com/watch?v=fBNhBeZPoPE)
